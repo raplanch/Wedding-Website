@@ -517,6 +517,7 @@
   width: 460px;
   margin-left: var(--dl-space-space-threeunits);
   padding-top: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-space-space-twounits);
 }
 .home-navlink {
   display: contents;
