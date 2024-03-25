@@ -354,7 +354,6 @@
 }
 .travel-text07 {
   color: var(--dl-color-primary-brown);
-  width: auto;
   padding-top: var(--dl-space-space-halfunit);
 }
 .travel-text08 {
@@ -1123,9 +1122,6 @@
     width: auto;
     padding-right: 0px;
   }
-  .travel-text07 {
-    width: auto;
-  }
   .travel-text09 {
     width: auto;
   }
@@ -1206,9 +1202,6 @@
   .travel-travel {
     width: auto;
     padding-top: 0px;
-  }
-  .travel-text07 {
-    width: auto;
   }
   .travel-text08 {
     padding-top: var(--dl-space-space-twounits);
