@@ -1301,6 +1301,9 @@
   .home-schedule-of-events {
     align-items: center;
   }
+  .home-time {
+    text-align: center;
+  }
   .home-time1 {
     text-align: center;
   }
