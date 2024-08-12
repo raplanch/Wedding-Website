@@ -136,26 +136,31 @@
 .navbar-interactive-navlink5 {
   color: var(--dl-color-primary-brown);
   margin-bottom: var(--dl-space-space-unit);
+  font-weight: 300;
   text-decoration: none;
 }
 .navbar-interactive-navlink6 {
   color: var(--dl-color-primary-brown);
   margin-bottom: var(--dl-space-space-unit);
+  font-weight: 300;
   text-decoration: none;
 }
 .navbar-interactive-navlink7 {
   color: var(--dl-color-primary-brown);
   margin-bottom: var(--dl-space-space-unit);
+  font-weight: 300;
   text-decoration: none;
 }
 .navbar-interactive-navlink8 {
   color: var(--dl-color-primary-brown);
   margin-bottom: var(--dl-space-space-unit);
+  font-weight: 300;
   text-decoration: none;
 }
 .navbar-interactive-text1 {
   color: var(--dl-color-primary-brown);
   margin-bottom: var(--dl-space-space-unit);
+  font-weight: 300;
 }
 .navbar-interactive-root-class-name {
   width: 100%;
