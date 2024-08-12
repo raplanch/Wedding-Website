@@ -80,6 +80,19 @@
 .navbar-interactive-link:hover {
   color: var(--dl-color-primary-lightgreen);
 }
+.navbar-interactive-link-rsvp {
+  color: var(--dl-color-primary-white);
+  transition: 0.3s;
+  margin-left: var(--dl-space-space-twounits);
+  border: 1px solid var(--dl-color-primary-white);
+  font-weight: 500;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.navbar-interactive-link-rsvp:hover {
+  color: var(--dl-color-primary-lightgreen);
+  border: 1px solid var(--dl-color-primary-lightgreen);
+}
 .navbar-interactive-burger-menu {
   display: none;
 }

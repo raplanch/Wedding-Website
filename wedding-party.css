@@ -80,6 +80,19 @@
 .navbar-interactive-link:hover {
   color: var(--dl-color-primary-lightgreen);
 }
+.navbar-interactive-link-rsvp {
+  color: var(--dl-color-primary-white);
+  transition: 0.3s;
+  margin-left: var(--dl-space-space-twounits);
+  border: 1px solid var(--dl-color-primary-white);
+  font-weight: 500;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.navbar-interactive-link-rsvp:hover {
+  color: var(--dl-color-primary-lightgreen);
+  border: 1px solid var(--dl-color-primary-lightgreen);
+}
 .navbar-interactive-burger-menu {
   display: none;
 }
@@ -160,13 +173,6 @@
 .navbar-interactive-text1 {
   color: var(--dl-color-primary-brown);
   margin-bottom: var(--dl-space-space-unit);
-  font-weight: 300;
-}
-.navbar-interactive-text2 {
-  color: var(--dl-color-primary-brown);
-  margin-bottom: var(--dl-space-space-unit);
-  padding-block: 6px;
-  outline-color: #f1f1f1;
   font-weight: 300;
 }
 .navbar-interactive-root-class-name {
