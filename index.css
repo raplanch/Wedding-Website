@@ -546,6 +546,14 @@
   object-fit: cover;
   margin-right: var(--dl-space-space-threeunits);
   text-decoration: none;
+  color: var(--dl-color-primary-white); /* Initial color */
+}
+.home-arrow-right:hover {
+  color: var(--dl-color-primary-lightgreen); /* Change color on hover */
+  transform: scale(1.1); /* Increase size by 10% */
+}
+.home-arrow-right.clicked {
+  color: var(--dl-color-primary-white); /* Color on click */
 }
 .home-margin-container3 {
   flex: 1;
